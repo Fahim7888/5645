@@ -1,0 +1,3 @@
+ufw allow http 
+ufw allow 30333
+ufw allow 8078
